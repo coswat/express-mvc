@@ -1,0 +1,20 @@
+{
+  "name": "coswat-express",
+  "version": "1.0.0",
+  "description": "Express.js mvc structure for fullstack web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "liquidjs": "^10.8.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
